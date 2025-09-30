@@ -1,11 +1,48 @@
-.navBackground{
-background-color: #00008B;
+body{
+background-color:#f0f4ef
 }
 
+.navBackground{
+background-color: #344966;
+}
+
+
+.btn-primary{
+    background-color: #f0f4ef;
+    border-color: #0d1821;
+    color: #0d1821;
+    border-width: 1px;
+}
+
+.btn-primary:hover {
+      background-color: #0d1821;
+      color: #f0f4ef;
+      border-color: #0d1821;
+      border-width: 1px;
+    }
+
+
+.card:hover {
+    transform: translateY(-5px);
+    transition-duration: 1s;
+}
+
+
 .navbar-custom .nav-link {
-        color: #FFFF; 
+        color: #b4cded; 
     }
 .navbar-custom .navbar-brand{
     font-weight: bold;
-    color: #FFFF; 
+    color: #b4cded; 
+}
+
+.navbar-toggler-icon{
+color: #FFFF !important;
+border-color: #FFFF !important;
+background-color: #FFFF !important;
+}
+.navbar-toggler{
+color: #FFFF !important;
+border-color: #FFFF !important;
+background-color: #FFFF !important;
 }
