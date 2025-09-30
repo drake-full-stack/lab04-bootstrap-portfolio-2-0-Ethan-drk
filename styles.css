@@ -1,0 +1,11 @@
+.navBackground{
+background-color: #00008B;
+}
+
+.navbar-custom .nav-link {
+        color: #FFFF; 
+    }
+.navbar-custom .navbar-brand{
+    font-weight: bold;
+    color: #FFFF; 
+}
